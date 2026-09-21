@@ -10,7 +10,7 @@ Bilingual academic and data science portfolio hosted on GitHub Pages.
 
 ## Update
 
-Edit the corresponding section in both HTML files to keep translations aligned. Replace the PDFs under `assets/` to update the downloadable CVs. Update manuscript statuses in both languages when review outcomes change. The original CV PDFs are provided unchanged.
+Edit the corresponding section in both HTML files to keep translations aligned. Replace the PDFs under `assets/` to update the downloadable CVs. Update manuscript statuses in both languages when review outcomes change. The English CV includes the user-confirmed Duke date correction (Aug. 2017 to May 2019); the Chinese CV is unchanged.
 
 ## Preview
 
